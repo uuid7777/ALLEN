@@ -1,0 +1,28 @@
+{
+  "plugins": {
+    "hello": {
+      "name": "hello",
+      "version": "1.0",
+      "description": "Allen 向你问好",
+      "author": "Allen",
+      "file": "D:\\EVA\\plugins\\hello.py",
+      "enabled": true,
+      "added": "2026-06-09 14:55:52",
+      "calls": 0
+    },
+    "mytool": {
+      "name": "mytool",
+      "version": "1.0",
+      "description": "我的工具",
+      "author": "Allen",
+      "file": "D:\\EVA\\plugins\\mytool.py",
+      "enabled": true,
+      "added": "2026-06-09 14:55:52",
+      "calls": 0
+    }
+  },
+  "order": [
+    "hello",
+    "mytool"
+  ]
+}

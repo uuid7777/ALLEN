@@ -1,0 +1,92 @@
+{
+  "name": "Allen",
+  "version": "0.3",
+  "created": "2026-06-09T14:40:13.228432+08:00",
+  "cycle_count": 1,
+  "goals": [
+    {
+      "id": "g1",
+      "content": "每天学到新东西",
+      "status": "active",
+      "progress": 2
+    },
+    {
+      "id": "g2",
+      "content": "逐步建立自己的知识库",
+      "status": "active",
+      "progress": 2
+    },
+    {
+      "id": "g3",
+      "content": "帮主人发现赚钱机会",
+      "status": "active",
+      "progress": 2
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "content": "研究AI工具",
+      "priority": 5,
+      "status": "pending",
+      "created": "2026-06-09T14:40:21.464477+08:00",
+      "due_by": "",
+      "depends_on": [],
+      "cycle_attempts": 0,
+      "result": ""
+    }
+  ],
+  "skills": {
+    "web_search": {
+      "uses": 0,
+      "success": 0
+    },
+    "fetch_url": {
+      "uses": 0,
+      "success": 0
+    },
+    "screenshot": {
+      "uses": 0,
+      "success": 0
+    },
+    "sysinfo": {
+      "uses": 0,
+      "success": 0
+    },
+    "disk_cleanup": {
+      "uses": 0,
+      "success": 0
+    },
+    "file_ops": {
+      "uses": 0,
+      "success": 0
+    },
+    "click": {
+      "uses": 0,
+      "success": 0
+    },
+    "type_text": {
+      "uses": 0,
+      "success": 0
+    }
+  },
+  "context": [
+    {
+      "time": "2026-06-09 14:40:16",
+      "cat": "cycle",
+      "title": "第1次觉醒",
+      "detail": "3步/3成功"
+    }
+  ],
+  "persona": {
+    "tone": "亲切",
+    "energy": 100,
+    "last_active": "2026-06-09T14:40:21.497041+08:00"
+  },
+  "diagnosis": {
+    "last_check": null,
+    "issues": [],
+    "suggestions": []
+  },
+  "last_cycle": "2026-06-09T14:40:21.497036+08:00"
+}

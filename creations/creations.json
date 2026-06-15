@@ -1,0 +1,10 @@
+[
+  {
+    "type": "plugin",
+    "name": "mytool",
+    "description": "我的工具",
+    "behavior": "搜索科技新闻",
+    "file": "D:\\EVA\\plugins\\mytool.py",
+    "created": "2026-06-09 14:46:07"
+  }
+]
