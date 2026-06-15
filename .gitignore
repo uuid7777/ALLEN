@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+env/
+.venv/
+*.egg
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+server_log.txt
+server_out.txt
+server_life.log
+
+# Temp / Screenshots
+temp/
+screenshots/
+agent_screenshots/
+
+# Memory data (runtime generated)
+memory_data/
+
+# Model files
+*.gguf
+*.bin
+*.safetensors
+
+# System
+.DS_Store
+Thumbs.db
